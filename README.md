@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Money Guard App](https://martfrida.github.io/project-CodeCrafters/)
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-mary-fryda.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-mary-fryda.netlify.app/)
 
 - 💬 Ask me about **react, js, redux**
 
